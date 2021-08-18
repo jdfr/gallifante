@@ -1,6 +1,6 @@
 # gallifante
 
-Este es un modelo de gallifante en 3D con colores hecho en Blender. Es un modelo francamente minimalista, nada que ver con las filigranas que han aparecido últimamente.
+Este es un modelo de gallifante en 3D con colores hecho en Blender. Es un modelo francamente minimalista, nada que ver con las filigranas que han aparecido últimamente, como [éste](https://www.thingiverse.com/thing:4194456) o [éste](https://www.thingiverse.com/thing:4797674).
 
 ![Gallifante](gallifante.jpeg)
 
